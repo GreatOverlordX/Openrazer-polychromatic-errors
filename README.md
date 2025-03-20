@@ -10,7 +10,7 @@ OR the CLI front-end *razer-cli*.
 
 ---
 
-[I'll do *Polychromatic* in this instance (because it was my choice and what I experienced).]
+[I'll do *Polychromatic* in this instance (because it was my choice and what I experienced)]
 ---
 
 You will find there is no communication or errors in the communication between the application and *OpenRazer*.
